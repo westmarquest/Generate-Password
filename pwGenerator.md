@@ -27,3 +27,4 @@ THEN the password is either displayed in an alert or written to the page
 Getting Started
 
 To use the password generator, simply click the link below:
+https://westmarquest.github.io/Generate-Password/
